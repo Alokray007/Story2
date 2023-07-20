@@ -1,2 +1,2 @@
 # Story2
-no
+Practice for Brance creation and manipulation.
